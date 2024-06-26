@@ -1,0 +1,22 @@
+{
+  "name": "macro-detector",
+  "version": "1.0.0",
+  "description": "This package automatically detects whether a macro program is being used simply by importing it.",
+  "main": "lib/macro-detector.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisIsJooS/macro-detector.git"
+  },
+  "keywords": [
+    "macro"
+  ],
+  "author": "Seungwoo, Joo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thisIsJooS/macro-detector/issues"
+  },
+  "homepage": "https://github.com/thisIsJooS/macro-detector#readme"
+}
