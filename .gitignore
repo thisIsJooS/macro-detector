@@ -1,1 +1,16 @@
 .idea
+
+# Dependencies
+node_modules/
+
+# Build outputs
+lib/
+
+# Miscellaneous
+.DS_Store
+*.log
+
+# Local environment files
+.env
+
+package-lock.json
