@@ -112,7 +112,7 @@ const initMacroDetector = async (targetId) => {
         await process();
 
         if (macroDetected) {
-            alert("다시 시도해 주십시오.");
+            alert("Suspected use of unauthorized program. Please try again.");
         }
 
         macroDetected = false;

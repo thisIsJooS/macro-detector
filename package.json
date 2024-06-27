@@ -1,6 +1,6 @@
 {
   "name": "macro-detector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package automatically detects whether a macro program is being used simply by importing it.",
   "main": "lib/macro-detector.js",
   "scripts": {
