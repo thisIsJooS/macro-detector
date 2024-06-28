@@ -3,7 +3,7 @@
 
 This package automatically detects whether a macro program is being used simply by importing it.
 
-Latest Version : `1.01` (2024.06.27)
+Latest Version : `1.02` (2024.06.28)
 
 ---
 
