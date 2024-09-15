@@ -135,12 +135,9 @@ Mouse cursor was controlled using the [pyautogui](https://pyautogui.readthedocs.
 | <img src="./assets/curvature_fomula.png"> | <img src="./assets/central_difference_method.png"> |
 
 ---
+## Contact
 
-## Paper
-Here is the paper I wrote when I first started this project.  
-▶️  [Paper (Google Drive)](https://drive.google.com/file/d/14VLJlu8YvvCGRB9LqQnQnCJf17MIJz-M/view?usp=sharing)
-
---- 
+thisis.joos@gmail.com
 
 ## License
 
